@@ -1,4 +1,4 @@
-  API="https://backend-7bjp.onrender.com//studentsinfo"
+  API="https://backend-7bjp.onrender.com/studentsinfo"
   let showstudents1=document.getElementById("showstudents")
 
   async function loadStudents(){
