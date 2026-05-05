@@ -1,0 +1,22 @@
+ #editstudent{
+      /* background-color: bisque; */
+      height: 100vh;
+      width: 100vw;
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      justify-content: center;
+      align-items: center;
+    }
+    .editbox{
+      background-color: blue;
+      padding: 20px;
+    }
+    .tbl{
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .tbl tr:nth-child(even){
+      background-color: rgb(235, 223, 223);
+    }
